@@ -11,3 +11,7 @@ __pycache__/
 
 chromedriver_win64/*
 chrome-headless-shell-win64/*
+
+.env
+*.env
+*.env.*
