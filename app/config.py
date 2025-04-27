@@ -1,5 +1,8 @@
 # Configuration settings for the CandidAI application
 
+DEV_MODE = True  # Set to True for debugging
+DEBUG_MODE = True  # Set to True for detailed logging
+
 # Selenium browser settings
 SELENIUM_TIMEOUT = 10  # seconds
 SELENIUM_WAIT_TIME = 2  # seconds between page loads

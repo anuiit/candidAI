@@ -8,9 +8,20 @@ from components.manual_input import show_manual_input
 from components.settings import show_settings
 from components.profile import show_profile
 from state import initialize_session_state
+from config import config
 
-# Load environment variables
-load_dotenv()
+if config.DEBUG_MODE:
+    import logging
+    import sys
+
+    # Set up logging to console
+    logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+    logger = logging.getLogger(__name__)
+    logger.debug("Debugging mode is ON.")
+
+if config.DEV_MODE:
+    # Load environment variables
+    load_dotenv()
 
 # Check for API key
 if os.getenv("OPENAI_API_KEY") is None:
