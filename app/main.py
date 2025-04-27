@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-from dotenv import load_dotenv
 
 # Import components and pages
 from components.job_search import show_job_search
@@ -20,6 +19,8 @@ if config.DEBUG_MODE:
     logger.debug("Debugging mode is ON.")
 
 if config.DEV_MODE:
+    from dotenv import load_dotenv
+
     # Load environment variables
     load_dotenv()
 
