@@ -1,0 +1,130 @@
+[
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1745841640,
+    "httpOnly": false,
+    "name": "_uetsid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "3d012ba0235f11f0aeb9f1e47343fa2a|1086wyz|2|fvf|0|1943"
+  },
+  {
+    "domain": "www.hellowork.com",
+    "expiry": 1779883239,
+    "httpOnly": false,
+    "name": "hw-cc-gtm",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22statistics%22%3Atrue%2C%22marketing%22%3Atrue%7D"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1753531239,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fb.1.1745755239379.31916227234005097"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1753531239,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.133617188.1745755239"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1780315239,
+    "httpOnly": false,
+    "name": "_hw_sid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "f3b9a1411e06d9ab"
+  },
+  {
+    "domain": "www.hellowork.com",
+    "expiry": 1779883239,
+    "httpOnly": false,
+    "name": "hw-cc-first-party",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22uuid%22%3A%22dccdbbe3-1424-4aff-a4d3-0df0adea76fe%22%2C%22statistics%22%3Atrue%2C%22marketing%22%3Atrue%7D"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1779451240,
+    "httpOnly": false,
+    "name": "_uetvid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "3d011030235f11f09394ad82f0f16c5c|qetqsr|1745755240427|1|1|bat.bing.com/p/insights/c/p"
+  },
+  {
+    "domain": ".hellowork.com",
+    "httpOnly": false,
+    "name": "_hw_pid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "05507483-6627-45e0-9548-59b88e978d85"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1779883238,
+    "httpOnly": false,
+    "name": "_pcid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%7B%22browserId%22%3A%22m9zlleu3ehi337cq%22%2C%22_t%22%3A%22mpo0iw68%7Cm9zlleu8%22%7D"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1779883238,
+    "httpOnly": false,
+    "name": "pa_privacy",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%22required%22"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1779883238,
+    "httpOnly": false,
+    "name": "_pctx",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAA6UADPQDuANgAcAH34BOAF7ooYaSAC%2BQA"
+  },
+  {
+    "domain": ".hellowork.com",
+    "expiry": 1780315239,
+    "httpOnly": true,
+    "name": "_hw_cid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "9dcad6aa-5d27-4b2d-9af5-419adc24945e"
+  },
+  {
+    "domain": "www.hellowork.com",
+    "httpOnly": true,
+    "name": "hw.emploi.web.session",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "CfDJ8Hwz13B1orFEuZXJmsC%2FNO5DELgZxLDlwES5uKKqLzmRFRalgYlYC6KFYfa7H3u80M42Gt9HjkgHolbOjvhof7XCIkI4jd7O722KSgR%2FP9SDlN4pfSujAel8shAKLQcAoINraCc3vulBbovrmgpIAGG1382IWyJRhMuZQG1IW%2B8E"
+  }
+]

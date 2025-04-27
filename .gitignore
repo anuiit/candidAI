@@ -1,0 +1,13 @@
+# Python files
+
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Chrome driver folders
+
+chromedriver_win64/*
+chrome-headless-shell-win64/*

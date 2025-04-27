@@ -1,0 +1,200 @@
+[
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1745757406,
+    "httpOnly": false,
+    "name": "_cs_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "4.0.1.9.1745757406142"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "httpOnly": false,
+    "name": "csrf-token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "DAc8EH4xM2AFAT4SMyd9HD0GAHslE29CILY_SZyPAEQFav1QrIvKt_-t"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1779919593,
+    "httpOnly": false,
+    "name": "_cs_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "7241f7fd-fbb6-aaba-8889-abcb27a51013.1745755593.1.1745755606.1745755593.1.1779919593508.1.x"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1779451605,
+    "httpOnly": false,
+    "name": "_sp_id.407f",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "cfee508d-8502-45ff-a6e7-647df0a1e323.1745755592.1.1745755606..eb0ecfc1-ea25-4540-bf08-a2d57cc3b635..78fc7061-83e5-4b5b-9f23-4e81abe69adc.1745755592906.6"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1777291605,
+    "httpOnly": false,
+    "name": "_hjSessionUser_45018",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6Ijc5Zjg5NDM2LTc5YmYtNTBkNC04N2U1LTUwYWIyMTI4ZTJjNiIsImNyZWF0ZWQiOjE3NDU3NTU1OTM1MzMsImV4aXN0aW5nIjp0cnVlfQ=="
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1745841993,
+    "httpOnly": true,
+    "name": "_wttj_front.sig",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "6dIl27L8vGWUERS9NhCUd0q8G9Y"
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1745841993,
+    "httpOnly": true,
+    "name": "_wttj_front",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "eyJsaW5rZWRpblNhbHQiOiJlMzJmMTBmMy0yMTBkLTQwMmMtYjc2Yi05Y2MyMWY3OTE5NWMifQ=="
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1762171593,
+    "httpOnly": false,
+    "name": "axeptio_all_vendors",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%2Cbeamer%2Cwisepop%2CContentSquare%2Cmaze%2Chotjar%2Cfacebook_pixel%2Cpixel_captify%2Cgolden_bees%2Cvimeo%2CDailymotion%2Cwttj%2Csnowplow%2CBeamer%2CWisepop%2Ccontentsquare%2Cdailymotion%2C"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1745757405,
+    "httpOnly": false,
+    "name": "_sp_ses.407f",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "*"
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1762171593,
+    "httpOnly": false,
+    "name": "axeptio_authorized_vendors",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%2Cbeamer%2Cwisepop%2CContentSquare%2Cmaze%2Chotjar%2Cfacebook_pixel%2Cpixel_captify%2Cgolden_bees%2Cvimeo%2CDailymotion%2Cwttj%2Csnowplow%2CBeamer%2CWisepop%2Ccontentsquare%2Cdailymotion%2C"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1779883605,
+    "httpOnly": false,
+    "name": "sp",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "7a31ce66-b381-4d47-9d89-0bb9375d9c76"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1745757393,
+    "httpOnly": false,
+    "name": "_hjSession_45018",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6IjdkZjNiYjAxLTZlN2UtNDU4NS1hOWZmLWFlNDIxNjUzYjE1NSIsImMiOjE3NDU3NTU1OTM1MzQsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1750939594,
+    "httpOnly": false,
+    "name": "oauth_redirect_url",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "https://www.welcometothejungle.com/fr/me/dashboard?oauth_origin_name=header"
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1762171593,
+    "httpOnly": false,
+    "name": "axeptio_cookies",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "{%22$$token%22:%22rictmf4gtcl1tsotqth99%22%2C%22$$date%22:%222025-04-27T12:06:33.394Z%22%2C%22$$cookiesVersion%22:{%22name%22:%22wttj_fr%22%2C%22identifier%22:%225f4f4ab6f39d9808bc563526%22}%2C%22beamer%22:true%2C%22wisepop%22:true%2C%22ContentSquare%22:true%2C%22maze%22:true%2C%22hotjar%22:true%2C%22facebook_pixel%22:true%2C%22pixel_captify%22:true%2C%22golden_bees%22:true%2C%22vimeo%22:true%2C%22Dailymotion%22:true%2C%22wttj%22:true%2C%22snowplow%22:true%2C%22Beamer%22:true%2C%22Wisepop%22:true%2C%22contentsquare%22:true%2C%22dailymotion%22:true%2C%22$$completed%22:true}"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1753531606,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fb.1.1745755593957.520901113505767277"
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1748347591,
+    "httpOnly": false,
+    "name": "wttj-user-language",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fr"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "httpOnly": true,
+    "name": "wttj_api_session_key",
+    "path": "/",
+    "sameSite": "Strict",
+    "secure": true,
+    "value": "SFMyNTY.g3QAAAABbQAAAAtfY3NyZl90b2tlbm0AAAAYRUtlTy1rSjBERG9UUlFMTU9PdjBRTEI2.BH5PQqDPbvXqJ6AmZhRY8SwI578Din-LuDq-klCUY54"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1779919593,
+    "httpOnly": false,
+    "name": "_cs_c",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": "www.welcometothejungle.com",
+    "expiry": 1745841992,
+    "httpOnly": false,
+    "name": "wttj-current-country",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "FR"
+  },
+  {
+    "domain": ".welcometothejungle.com",
+    "expiry": 1780315591,
+    "httpOnly": true,
+    "name": "gb_session_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "8f06f9aa-ee83-4213-8260-1adf35d99850"
+  }
+]
